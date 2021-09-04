@@ -1,5 +1,7 @@
 # **team-15**
 
+![airbnb_record](https://user-images.githubusercontent.com/65053955/120933048-56e46400-c733-11eb-8790-2a572790f3e3.gif)
+
 ## 맴버
 
 | CPR Position | Name |
